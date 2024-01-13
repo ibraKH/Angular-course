@@ -1,0 +1,10 @@
+.message {
+    font-size: 1.3em;
+    font-weight: bold;
+}
+input.ng-dirty.ng-invalid {
+    border: 2px solid red;
+}
+input.ng-dirty.ng-valid {
+    border: 2px solid green;
+}
